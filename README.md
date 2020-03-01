@@ -33,14 +33,10 @@ to get the omni twrp file
 
 
 
-You can directly donwload from here :
+You can directly donwload using wget using the command :
 
-https://android-build-tools.github.io/omni_twrp_5_1/omni_twrp-5.1.1_cleaned.tar.xz.bz2.001
-https://android-build-tools.github.io/omni_twrp_5_1/omni_twrp-5.1.1_cleaned.tar.xz.bz2.002
-https://android-build-tools.github.io/omni_twrp_5_1/omni_twrp-5.1.1_cleaned.tar.xz.bz2.003
-https://android-build-tools.github.io/omni_twrp_5_1/omni_twrp-5.1.1_cleaned.tar.xz.bz2.004
-https://android-build-tools.github.io/omni_twrp_5_1/omni_twrp-5.1.1_cleaned.tar.xz.bz2.005
- 
- 
- 
- 
+wget -i omni_twrp_5_1_list.txt
+
+or
+
+wget -i https://android-build-tools.github.io/omni_twrp_5_1/omni_twrp_5_1_list.txt
